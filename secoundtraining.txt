@@ -1,0 +1,13 @@
+git commands 
+
+
+first config git  :
+git config --global user.name "tamilselvanm"
+git config --global user.email "****@gmail.com"
+
+
+git init 
+git add 
+git status 
+git log
+git commit
