@@ -1,0 +1,40 @@
+first today people are lives two live 
+                                               1.)online 
+                                               2.)offline 
+Every  place is digitalized if your business not online you lose of it but traditionaly application is creation programming language ,database . but application using online we use web application-its runs on web server it access the globally .
+
+web application has 3 layer 
+
+     front end 
+   database ,back end 
+
+front end -what you see in front of appliction 3 layer 
+  html,css ,java scrpit 
+                                                                                                                          html
+
+
+html is hypertext markup language .first fall markup language is presenting the data .the data can be any thing text ,image audio,video or anything multimedia 
+1.) html-is standered markup language for web site creation
+2.)with html you create your own web site  
+  3.)html is structure of web site 
+   4.)html is continous tag
+
+       html syntex :
+
+<start tag>content </end teg>
+      html element has starting tag and some container and end tag
+   
+
+
+
+
+
+
+     
+
+
+
+
+    
+
+ 
